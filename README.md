@@ -7,7 +7,7 @@ An **experienced** freelance developer with over **7 years** in the industry. I 
 * Mass account generation and automation on highly secure platforms: Discord, Twitter and Reddit.
 * Custom TLS clients in Golang for TLS Spoofing.
 * Auth API reversing and spoofing.
-* Scraping, analysis and prediction from crypto trading data, powered by AI.
+* Scraping, AI-Powered analysis and prediction from crypto trading data.
 * SSL Pinning bypass.
 
 # Contacts
