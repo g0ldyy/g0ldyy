@@ -1,6 +1,6 @@
-An **experienced** freelance developer with over **7 years** in the industry. I have worked on numerous projects, delivering high satisfaction to **dozens** of clients in various fields. I master **Python**, **Lua** and **Golang** and am fully capable of completing **any** order in any domain.
+An **experienced** freelance developer with over **7 years** in the industry. Worked on numerous projects, delivering high satisfaction to **dozens** of clients in various fields. Mastering **Python**, **Lua** and **Golang** and is fully capable of completing **any** project in any domain.
 
-# Some projects I've successfully completed with very short deadlines
+# Previous projects
 
 * Scraping protected APIs/pages e.g. Cloudflare, Akamai and Datadome at industrial scale, full requests.
 * Serving Cheating solutions to large user bases (15k+ daily users)
