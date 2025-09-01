@@ -15,4 +15,4 @@ An **experienced** freelance developer with over **7 years** in the industry. Wo
 # Contacts
 
 * Discord - g\_0ldy
-* Email - [g0ldyy.dev@gmail.com](mailto:g0ldyy.dev@gmail.com)
+* Email - [contact@g0ldy.me](mailto:contact@g0ldy.me)
