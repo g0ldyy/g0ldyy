@@ -10,7 +10,6 @@ An **experienced** freelance developer with over **7 years** in the industry. Wo
 * Auth API reversing and spoofing.
 * Building highly secure Authentification solutions.
 * Scraping, AI-Powered analysis and prediction from crypto trading data.
-* SSL Pinning bypass.
 
 # Contacts
 
