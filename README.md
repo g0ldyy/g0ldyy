@@ -1,4 +1,4 @@
-An **experienced** freelance developer with over **7 years** in the industry. Worked on numerous projects, delivering high satisfaction to **dozens** of clients in various fields. Mastering **Python**, **Lua** and **Golang** and is fully capable of completing **any** project in any domain.
+An **experienced** freelance developer with over **7 years** in the industry. Worked on numerous projects, delivering high satisfaction to **dozens** of clients in various fields.
 
 # Previous projects
 
