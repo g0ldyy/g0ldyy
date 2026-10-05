@@ -1,17 +1,16 @@
-An **experienced** freelance developer with over **7 years** in the industry. Worked on numerous projects, delivering high satisfaction to **dozens** of clients in various fields.
+Freelance developer for 8 years, working mostly on reverse engineering, bot protection bypass and automation at scale for private clients.
 
-# Previous projects
+## Private work
 
-* Scraping protected APIs/pages e.g. Cloudflare, Akamai and Datadome at industrial scale, full requests.
-* Serving Cheating solutions to large user bases (15k+ daily users)
-* hCaptcha WASM reversing / AI captcha resolution feat. Yolo.
-* Mass account generation and automation on highly secure platforms: Discord, Twitter and Reddit.
-* Custom TLS clients in Golang for TLS Spoofing.
-* Auth API reversing and spoofing.
-* Building highly secure Authentification solutions.
-* Scraping, AI-Powered analysis and prediction from crypto trading data.
+* Request based scraping and automation of platforms protected by Cloudflare, Akamai, DataDome and similar protections.
+* Custom TLS clients spoofing every layer of the browser fingerprint.
+* hCaptcha and reCAPTCHA solving, combining WASM reverse engineering with YOLO models for image challenges.
+* Large scale account generation on Discord, Twitter and Reddit, with phone and email verification handled end to end.
+* Reverse engineering and reimplementation of private APIs of all kinds.
+* Roblox and Minecraft cheats, internal and external, with a steady 15k to 20k daily users, monetized through ads and paid access.
+* Licensing and protection systems for commercial software, covering HWID binding, key validation and tamper resistance.
 
-# Contacts
+## Contact
 
-* Discord - g\_0ldy
-* Email - [contact@g0ldy.me](mailto:contact@g0ldy.me)
+* Discord: `g_0ldy`
+* Email: [contact@goldy.rocks](mailto:contact@goldy.rocks)
